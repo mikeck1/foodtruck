@@ -8,6 +8,7 @@
 <code>https://3dgreens.com/api/v1/account/register</code>
 <code>https://3dgreens.com/api/v1/account/login</code>
 <code>https://3dgreens.com/api/v1/foodtruck/add</code>
+<p>To View Food Trucks use postman or a browser</p>
 <code>View All -> https://3dgreens.com/api/v1/foodtruck 
 View One -> https://3dgreens.com/api/v1/foodtruck/UNIQUE_ID 
   https://3dgreens.com/api/v1/foodtruck/UNIQUE_FOOD_TYPE
