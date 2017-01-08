@@ -2,14 +2,14 @@
 <h2>Node.js express mongoose+mongodb ES6 babel body parser</h2>
 <h3>API backend for adding foodtrucks w/ details, and reviews.</h3>
 <h4>Use Postman or web/mobile client to control API.</h4>
-<p>demo</p>
+<p>demo [will not work in browser (aside from view all/byID trucks), use postman! V</p>
 <code>https://3dgreens.com/api/v1/account/register</code>
 <code>https://3dgreens.com/api/v1/account/login</code>
 <p>In Postman, for your header key:Authorization value: Bearer INSERT_TOKEN_HERE</p>
 <p>Also, for body, click raw and toggle to JSON application/json (Same process for editing/adding a foodtruck)</p>
 <code>https://3dgreens.com/api/v1/foodtruck/add</code>
 <p>To view all</p>
-<code>https://3dgreens.com/api/v1/foodtruck</code>
+<code>https://3dgreens.com/api/v1/foodtruck <- view all or https://3dgreens.com/api/v1/foodtruck/UNIQUE_ID <- View one</code>
 <h5>Refer to model and controllers for CRUD requests</h5>
 <br></br>
 <h4>How to install: (Assuming MongoDB is installed/running and Node.js is installed)</h4>
