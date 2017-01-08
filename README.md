@@ -8,8 +8,7 @@
 <p>In Postman, for your header.. key:Authorization value: Bearer INSERT_TOKEN_HERE</p>
 <p>Also, for body, click raw and toggle to JSON application/json (Same process for editing/adding a foodtruck)</p>
 <code>https://3dgreens.com/api/v1/foodtruck/add</code>
-<p>To view all</p>
-<code>https://3dgreens.com/api/v1/foodtruck <- view all 
+<code>View All -> https://3dgreens.com/api/v1/foodtruck <- view all 
 View One -> https://3dgreens.com/api/v1/foodtruck/UNIQUE_ID 
   https://3dgreens.com/api/v1/foodtruck/UNIQUE_FOOD_TYPE
 </code>
