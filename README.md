@@ -10,7 +10,7 @@
 <code>https://3dgreens.com/api/v1/foodtruck/add</code>
 <p>To view all</p>
 <code>https://3dgreens.com/api/v1/foodtruck <- view all or https://3dgreens.com/api/v1/foodtruck/UNIQUE_ID <- View one
-https://3dgreens.com/api/v1/foodtruck/UNIQUE_FOOD_TYPE
+<br></br> https://3dgreens.com/api/v1/foodtruck/UNIQUE_FOOD_TYPE
 </code>
 <h5>Refer to model and controllers for CRUD requests</h5>
 <br></br>
