@@ -5,7 +5,7 @@
 <p>demo [will not work in browser (aside from view all/byID trucks), use postman! V</p>
 <code>https://3dgreens.com/api/v1/account/register</code>
 <code>https://3dgreens.com/api/v1/account/login</code>
-<p>In Postman, for your header key:Authorization value: Bearer INSERT_TOKEN_HERE</p>
+<p>In Postman, for your header.. key:Authorization value: Bearer INSERT_TOKEN_HERE</p>
 <p>Also, for body, click raw and toggle to JSON application/json (Same process for editing/adding a foodtruck)</p>
 <code>https://3dgreens.com/api/v1/foodtruck/add</code>
 <p>To view all</p>
